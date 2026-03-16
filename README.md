@@ -1,6 +1,6 @@
 # EA2_Grupo-14_ImplementacionDiagramaDeClasesbiblioteca
 
-![](https://edea.juntadeandalucia.es/bancorecursos/items/95e089da-b938-4d08-a03c-5e773972e8e7/1/viewscorm.jsp?.vi=file&event__=scormtree.viewNode&eventp__0=uid9)
+![](https://edea.juntadeandalucia.es/bancorecursos/file/95e089da-b938-4d08-a03c-5e773972e8e7/1/es-an_2016120212_9103251.zip/Biblioteca.jpg)
 
 
 ## Introducción
@@ -259,6 +259,3 @@ Google. (2026, 15 de marzo). NotebookLM (ID: 6546ec93...). Google NotebookLM. ht
 
 JGraph Ltd. (2026). diagrams.net (Versión X.X) [Software de computación]. https://app.diagrams.net/
 
-## Anexos
-
-![]()
