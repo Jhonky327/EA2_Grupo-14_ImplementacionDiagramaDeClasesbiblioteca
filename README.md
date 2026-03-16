@@ -1,6 +1,7 @@
 # EA2_Grupo-14_ImplementacionDiagramaDeClasesbiblioteca
 
-https://edea.juntadeandalucia.es/bancorecursos/items/95e089da-b938-4d08-a03c-5e773972e8e7/1/viewscorm.jsp?.vi=file&event__=scormtree.viewNode&eventp__0=uid9
+![](https://edea.juntadeandalucia.es/bancorecursos/items/95e089da-b938-4d08-a03c-5e773972e8e7/1/viewscorm.jsp?.vi=file&event__=scormtree.viewNode&eventp__0=uid9)
+
 
 ## Introducción
 
@@ -252,3 +253,12 @@ Esta implementación garantiza que los datos internos solo se modifiquen mediant
 
 Para concluir, el diseño presentado permite la automatización y centralización de la gestión de la biblioteca utilizando una entidad núcleo (Biblioteca) la cual coordina de manera eficiente a los usuarios e inventario de libros. La implementación de reglas claras, como el caso del límite de tres libros por socio y la vigilancia de fechas mediante la clase Prestamo, asegura un control muy exacto respecto de la disponibilidad de cada ejemplar y el cumplimiento de las políticas institucionales.
 
+## Bibliografía
+
+Google. (2026, 15 de marzo). NotebookLM (ID: 6546ec93...). Google NotebookLM. https://notebooklm.google.com/notebook/6546ec93-8cba-48f8-a8a9-50588226315c
+
+JGraph Ltd. (2026). diagrams.net (Versión X.X) [Software de computación]. https://app.diagrams.net/
+
+## Anexos
+
+![]()
